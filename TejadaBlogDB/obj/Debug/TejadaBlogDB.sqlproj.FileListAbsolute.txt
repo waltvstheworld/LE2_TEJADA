@@ -1,0 +1,10 @@
+C:\Users\Denver John\source\repos\TejadaLE2\TejadaBlogDB\bin\Debug\TejadaBlogDB.dacpac
+C:\Users\Denver John\source\repos\TejadaLE2\TejadaBlogDB\bin\Debug\TejadaBlogDB.dll
+C:\Users\Denver John\source\repos\TejadaLE2\TejadaBlogDB\bin\Debug\TejadaBlogDB.pdb
+C:\Users\Denver John\source\repos\TejadaLE2\TejadaBlogDB\obj\Debug\TejadaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Denver John\source\repos\TejadaLE2\TejadaBlogDB\obj\Debug\Model.xml
+C:\Users\Denver John\source\repos\TejadaLE2\TejadaBlogDB\obj\Debug\refactor.xml
+C:\Users\Denver John\source\repos\TejadaLE2\TejadaBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Denver John\source\repos\TejadaLE2\TejadaBlogDB\obj\Debug\predeploy.sql
+C:\Users\Denver John\source\repos\TejadaLE2\TejadaBlogDB\obj\Debug\TejadaBlogDB.dll
+C:\Users\Denver John\source\repos\TejadaLE2\TejadaBlogDB\obj\Debug\TejadaBlogDB.pdb
